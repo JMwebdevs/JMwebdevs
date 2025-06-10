@@ -9,5 +9,7 @@ Teach Stack I Use:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![John Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=comdotvince&show_icons=true&theme=github_dark)
+## 🧠 GitHub Stats
 
+![Vince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=comdotvince&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=comdotvince&layout=compact&theme=github_dark)
