@@ -1,6 +1,6 @@
 ## Hi there! I'm John Mark
 
-🛠️ I’m currently building backend and full-stack projects
+🛠️ I’m currently a Beginner
 
 Teach Stack I Use:
 
